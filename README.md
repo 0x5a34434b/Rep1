@@ -1,3 +1,0 @@
-# helloworld
-hello to world
-this is the read me file , and has not any other value ... just info info...
